@@ -1,0 +1,13 @@
+body{
+	background-color: black;
+}
+p {
+	color: rgb(105, 255, 134);
+	font-family:"Courier New", monospace;
+}
+a{
+	color: white
+}
+img{
+	max-height: 250px
+}
